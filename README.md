@@ -13,4 +13,4 @@
 <hr>
 
 
-# bot by MHP
+# Stewie
